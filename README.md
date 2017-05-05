@@ -1,4 +1,4 @@
-# racist
+# rcs
 runtime configuration resource files
 
 ##vimrc
